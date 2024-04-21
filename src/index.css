@@ -2,3 +2,54 @@
 @tailwind components;
 @tailwind utilities;
 
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Adding base glassmorphic styles */
+.header-glass {
+  backdrop-filter: blur(10px);
+  background-color: rgba(50, 168, 91, 0.7);
+  /* White with transparency */
+}
+
+/* Glassmorphic style for images */
+.image-glass {
+  backdrop-filter: blur(8px);
+  background-color: rgba(255, 255, 255, 0.2);
+  /* Light white background with transparency */
+  border-radius: 1rem;
+  /* Rounded corners */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  /* Subtle border */
+}
+
+.solution-background {
+  background: linear-gradient(-45deg, #24ff4c, hsl(186, 100%, 50%), #009dff, #a01aff);
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+}
