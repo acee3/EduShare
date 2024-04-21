@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.0279010a.css",
+    "main.js": "/my-app/static/js/main.97bf20e9.js",
+    "static/media/solution3.jpg": "/my-app/static/media/solution3.41cbf519ff3840887f51.jpg",
+    "static/media/solution2.jpg": "/my-app/static/media/solution2.2d318613e4a5587c97e9.jpg",
+    "static/media/member3.jpg": "/my-app/static/media/member3.cd8e407f2561e0239934.jpg",
+    "static/media/member1.jpg": "/my-app/static/media/member1.31cb9b0fcd0735f92a9b.jpg",
+    "static/media/member2.jpg": "/my-app/static/media/member2.756173950f8f19b555fd.jpg",
+    "static/media/solution1.jpg": "/my-app/static/media/solution1.7b25b0707e1b49dedae7.jpg",
+    "static/media/member4.jpg": "/my-app/static/media/member4.7ee37b16fc90f3beacd7.jpg",
+    "static/media/sadchild1.jpg": "/my-app/static/media/sadchild1.a8bd3145545b72b72dfe.jpg",
+    "static/media/sadchild2.jpg": "/my-app/static/media/sadchild2.01d3415a4c5cb2b170de.jpg",
+    "static/media/BusinessPlan.pdf": "/my-app/static/media/BusinessPlan.deb3792c3b0430fa0ccf.pdf",
+    "index.html": "/my-app/index.html",
+    "main.0279010a.css.map": "/my-app/static/css/main.0279010a.css.map",
+    "main.97bf20e9.js.map": "/my-app/static/js/main.97bf20e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0279010a.css",
+    "static/js/main.97bf20e9.js"
+  ]
+}
